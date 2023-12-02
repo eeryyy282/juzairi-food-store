@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Juzairi Food Store</string>
+    <string name="judul_aplikasi">JUZAIRI FOOD STORE</string>
+    <string name="oleh_copyright">Oleh:\n Muhammad Juzairi Safitli</string>
+    <string name="judul_2">Makanan Sampai\n Perutpun Kenyang</string>
+    <string name="next_start">SELANJUTNYA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
