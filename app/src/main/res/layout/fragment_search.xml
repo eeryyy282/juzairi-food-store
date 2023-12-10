@@ -12,6 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/koulen"
+        android:textSize="28sp"
         android:text="Cari"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
@@ -31,7 +32,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView22">
-
     </SearchView>
 
     <androidx.recyclerview.widget.RecyclerView
@@ -49,9 +49,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
+        android:fontFamily="@font/koulen"
+        android:textColor="@color/putih"
+        android:textSize="24sp"
         android:text="Menu"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/searchView" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
